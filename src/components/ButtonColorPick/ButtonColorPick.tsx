@@ -1,7 +1,6 @@
 import {useState} from 'react';
-import {Button, Form, Modal}from 'react-bootstrap';
+import {Button}from 'react-bootstrap';
 
-import React from 'react'
 import ModalColorPick from '../ModalColorPick/ModalColorPick';
 
 const ButtonColorPick = () => {
